@@ -1,3 +1,3 @@
-module github.com/GevorkovG/test_mod_add
+module github.com/GevorkovG/mymath
 
 go 1.22.5
